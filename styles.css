@@ -18,6 +18,10 @@ th{
 		padding: 5px;
 }
 
+tr:nth-child(even) {
+  background-color: grey;
+}
+
 tbody tr>:nth-child(3),
 tbody tr>:nth-child(4),
 tbody tr>:nth-child(5),
